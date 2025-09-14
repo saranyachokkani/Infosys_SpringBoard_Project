@@ -1,0 +1,5 @@
+[
+    {"timestamp": "2025-09-12T09:00:00", "steps": 20, "sleep": 0},
+    {"timestamp": "2025-09-12T09:01:00", "steps": 35, "sleep": 0},
+    {"timestamp": "2025-09-12T09:05:00", "steps": 15, "sleep": 0}
+  ]
